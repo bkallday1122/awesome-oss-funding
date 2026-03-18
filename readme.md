@@ -44,6 +44,7 @@
 
 ## Bounties
 
+- [Awesome Agent Bounties](https://github.com/Scottcjn/awesome-agent-bounties) - Curated list of open source projects paying contributors and AI agents for code, docs, and security work.
 - [Issuehunt](https://issuehunt.io) - Issue-based crowd sourcing/funding for OSS projects.
 - [Bountysource](https://www.bountysource.com) - Bounty-based funding for OSS projects.
 
