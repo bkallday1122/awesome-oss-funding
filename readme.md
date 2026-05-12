@@ -34,7 +34,6 @@
 - [Patreon](https://www.patreon.com) - Membership and recurring donations for independent creators.
 - [Open Collective](https://opencollective.com) - Open communities with full financial transparency.
 - [Buy me a coffee](https://www.buymeacoffee.com) - Donations and relationship building for independent creators.
-- [Salt](https://salt.bountysource.com) - Crowdfunding to help devs earn a monthly salary from OSS.
 - [Liberapay](https://liberapay.com) - Recurring donations for OSS projects.
 - [Flattr](https://flattr.com) - Monthly subscription for donating to OSS projects.
 - [thanks](https://github.com/feross/thanks) - Give thanks to the open source maintainers you depend on.
@@ -44,7 +43,6 @@
 ## Bounties
 
 - [Issuehunt](https://issuehunt.io) - Issue-based crowd sourcing/funding for OSS projects.
-- [Bountysource](https://www.bountysource.com) - Bounty-based funding for OSS projects.
 
 
 ## Licensing
