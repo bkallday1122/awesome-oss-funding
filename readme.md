@@ -20,7 +20,6 @@
 ## Products
 
 - [Saasify](https://saasify.sh) - Provides monetized APIs on top of OSS projects.
-- [CodeFund](https://codefund.io) - Provides funding for makers via ethical ads.
 - [Tidelift](https://tidelift.com) - Provides subscriptions connecting businesses with OSS devs.
 - [FOSSA](https://fossa.com) - Open source management for enterprise teams.
 - [Gitcoin](https://gitcoin.co) - Crowdfunding and freelance devs for your software projects.
@@ -58,9 +57,6 @@
 
 - [Lemonade Stand](https://github.com/nayafia/lemonade-stand) - The de facto living survey of different approaches for funding OSS.
 - [Getting paid for OSS](https://opensource.guide/getting-paid) - A solid guide for traditional means of funding OSS.
-- [Why funding open source is hard](https://codefund.io/blog/why-funding-open-source-is-hard) - Awesome read by [Eric Berry](https://twitter.com/coderberry).
-- [How to keep the lights on at Codefund](https://codefund.io/blog/the-open-source-conundrum-how-do-we-keep-the-lights-on) - Excellent analysis of different approaches to OSS funding by [Eric Berry](https://twitter.com/coderberry).
-- [Fighting for open source sustainability](https://codefund.io/blog/fighting-for-open-source-sustainability)
 - [Funding experiment recap](https://feross.org/funding-experiment-recap) - Great breakdown and insights by [Feross](http://feross.org).
 - [Should OSS advertise?](https://www.infoworld.com/article/3435114/should-open-source-software-advertise.html)
 - [Open core vs SaaS](https://gravitational.com/blog/open-core-vs-saas-intro)
